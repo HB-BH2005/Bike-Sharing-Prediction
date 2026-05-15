@@ -1,0 +1,22 @@
+[client]
+showErrorDetails = true
+toolbarMode = "developer"
+
+[logger]
+level = "info"
+
+[server]
+headless = true
+runOnSave = true
+maxUploadSize = 200
+enableXsrfProtection = false
+enableStaticServing = true
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#1565C0"
+backgroundColor = "#E8F5E9"
+secondaryBackgroundColor = "#C8E6C9"
+textColor = "#1B5E20"
+font = "sans serif"
