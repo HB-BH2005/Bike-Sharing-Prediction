@@ -9,8 +9,8 @@ This project addresses the bike-sharing demand prediction problem using advanced
 ## Model Performance
 
 - **R² Score**: 0.9521 (95.21% variance explained)
-- **RMSE**: 38.96 bikes
-- **MAE**: 24.65 bikes
+- **RMSE**: 38.96 
+- **MAE**: 24.65 
 
 These metrics indicate excellent predictive performance with minimal prediction errors.
 
