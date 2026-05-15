@@ -130,9 +130,6 @@ You can easily customize the model by modifying `train_model.py`:
 
 This project is open source and available for educational purposes.
 
-## Author
-
-Created as a machine learning portfolio project.
 
 ---
 
